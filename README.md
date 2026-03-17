@@ -11,9 +11,8 @@ Room Finder is a web application designed to help users find and book rooms in v
 
 ## Tech Stack
 - **Frontend**: React.js, CSS, HTML
-- **Backend**: Node.js, Express.js
-- **Database**: MongoDB
-- **Authentication**: JSON Web Tokens (JWT)
+- **Backend**: Flask
+
 
 ## Installation Instructions
 1. Clone the repository:
